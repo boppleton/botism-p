@@ -1,2 +1,3 @@
 # botism
-scalp trader with position scaling
+
+full code repo available to license holders
